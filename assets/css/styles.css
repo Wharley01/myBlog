@@ -1,0 +1,70 @@
+body,h1,h2,h3,h4,h5,h6{
+font-family: Roboto!important;
+
+}
+p{
+    font-weight: 300;
+    line-height: 1.625;
+}
+a{
+    text-decoration: none!important;
+}
+a:hover{
+    text-decoration: underline !important;
+}
+.header{
+    background: rgba(0,0,0,0.5)!important;
+
+}
+.cover-1{
+
+    background-image: url(../images/cover-1.jpeg) ;
+    background-repeat: no-repeat;
+    background-position:  center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    -o-background-size: cover !important;
+    background-size: cover !important;
+
+}
+.cover-2{
+
+    background-image: url(../images/cover-2.jpeg) ;
+    background-repeat: no-repeat;
+    background-position:  center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    -o-background-size: cover !important;
+    background-size: cover !important;
+
+}
+.cover-3{
+
+    background-image: url(../images/cover-3.jpeg) ;
+    background-repeat: no-repeat;
+    background-position:  center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    -o-background-size: cover !important;
+    background-size: cover !important;
+
+}
+/*
+Define fonts!!
+
+ */
+
+@font-face {
+    font-family: Roboto;
+    src: url("../fonts/Roboto-Regular.ttf");
+}
+
+header a{
+    text-decoration: none!important;
+}
+header a:hover{
+    text-decoration: underline!important;
+}
